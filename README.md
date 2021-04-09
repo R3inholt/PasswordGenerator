@@ -7,7 +7,7 @@
 
 # General description
 
-Application which provides to a user possibility to create unique, complex passwords for many use cases.
+Application which provides to a user possibility to create unique, complex passwords for many use cases. It uses simple randomization of characters appended to a set which is represented by simple string variable.
 
 # Scope of functionalities
 
