@@ -33,7 +33,7 @@ Application which provides to a user possibility to create unique, complex passw
 
 # Inspiration
 
-Application is not an innovation - I know that this kind of apps can be easily found everywhere. I made it with educational purposes only.
+Part of the "Programming Challanges v4.0". I made it for educational purposes only.
 
 ### Here's what I learned from it:
 * Better understanding of LINQ queries
